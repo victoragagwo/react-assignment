@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Logo from "../assets/logo.png";// Assuming you have a logo image in the assets folder
+import Logo from "../assets/logo.png";
 import chevronDown from "../assets/chevron-down.png"; // Assuming you have a chevron down icon in the assets folder
 import '../styling/navbar.css'; // Assuming you have a CSS file for styling the navbar
 
